@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Reactjs",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "NextJs",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Laravel",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "PHP",
+      "completed": false
+    }
+  ]
+}
